@@ -2,7 +2,7 @@
   <img src="https://giffiles.alphacoders.com/214/214441.gif">
 </p>
 
-  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4199F&width=435&lines=Lautaro+Julian+Cenizo;Full+stack+developer" alt="Typing SVG" /></a>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
  
