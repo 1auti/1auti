@@ -12,24 +12,6 @@
 ## ⚡🙋‍♂️ About Me
 <hr>
 
-```
-Soy un estudiante comprometido y apasionado en el ámbito del desarrollo web, actualmente cursando una licenciatura en sistemas y capacitaciones de dos años en desarrollo web. Durante mi formación, he construido una sólida base en programación y diseño web, adquiriendo experiencia en una variedad de tecnologías y herramientas clave. Mi objetivo es aplicar mis conocimientos para desarrollar soluciones web innovadoras y efectivas.
-
-Habilidades Destacadas:
-
-Lenguajes de Programación: JavaScript, C, Java, TypeScript
-Frameworks y Librerías: Bootstrap, Angular, Spring Boot, Spring Security, JWT, Angular Material
-Tecnologías y Herramientas: Flyway, Keycloak, Kafka, Spring Cloud, JavaFX, Docker, Draw.io, PostgreSQL, MongoDB
-Competencias:
-
-Resolución de Problemas: Capacidad para enfrentar y resolver desafíos técnicos de manera efectiva.
-Trabajo en Equipo: Experiencia en colaboración en equipos multifuncionales para el desarrollo de proyectos complejos.
-Objetivos:
-
-Estoy en busca de oportunidades para crecer y evolucionar en un entorno de desarrollo web. Mi meta es contribuir con mi pasión por la tecnología y mi experiencia en programación para enfrentar nuevos desafíos y mejorar continuamente mis habilidades en el campo del desarrollo web.
-```
-<hr>
-<p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=kaizoku-oh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kaizoku-oh" />
