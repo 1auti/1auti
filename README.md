@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F214441&psig=AOvVaw3_vnNmQHKrXT4waf7dBPxE&ust=1725731314125000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjrlY3mrogDFQAAAAAdAAAAABAE)">
+  <img src="[[https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F214441&psig=AOvVaw3_vnNmQHKrXT4waf7dBPxE&ust=1725731314125000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjrlY3mrogDFQAAAAAdAAAAABAE)](https://giffiles.alphacoders.com/214/214441.gif)">
 </p>
 
   <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
