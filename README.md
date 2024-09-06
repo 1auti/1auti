@@ -2,15 +2,25 @@
   <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
 </p>
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href= "https://www.linkedin.com/in/bayrem-gharssellaoui/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-  <a href= "https://medium.com/@garssallaoui.bayrem"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
-  <a href= "https://twitter.com/kaizoku_ouh"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
-  <a href= "https://signal.org"><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a>
-  <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
+ 
+ <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
+
+<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
+
+## ⚡🙋‍♂️ About Me
+
+</br>
+
+- 🔧 I’m currently working on ...Online Retail Community App.
+
+- 💡 I’m curious about ...Blockchain and Crypto Currency.
+- 📖 I’m currently learning ...Flask.
+- ❄️ I’m looking to collaborate on ...Open Source Projects.
+- 📫 How to reach me ...gkaustav57@gmail.com.
+
+<hr>
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=kaizoku-oh&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
